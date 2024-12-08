@@ -1,8 +1,7 @@
 # Olá! Eu sou a Avril Stihler
 Criativa, curiosa e apaixonada por aprender!
 
-
-📚 Sempre explorando novas formas de expressar ideias, seja através de programação, reflexões ou projetos pessoais.
+Sempre explorando novas formas de expressar ideias, seja através de programação, reflexões ou projetos pessoais.
 
 ### 🚀 Sobre Mim
 - Atualmente, estou aprendendo HTML e explorando o básico do desenvolvimento web.

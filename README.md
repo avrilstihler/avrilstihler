@@ -15,10 +15,10 @@ Sempre explorando novas formas de expressar ideias, seja através de programaç�
 - Compartilhar reflexões e ideias únicas.
 
 <a href= "https://github.com/avrilstihler/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=avrilstihler&show_icons=true&theme=github_dark_dimmed" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=avrilstihler&show_icons=true&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/avrilstihler/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avrilstihler&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avrilstihler&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
 </a>
 
 <picture align="center">

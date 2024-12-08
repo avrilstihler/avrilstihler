@@ -2,5 +2,10 @@
 🎨 Criativa, curiosa e apaixonada por aprender!
 
 
-![](https://github-readme-stats.vercel.app/api?username=avrilstihler&show_icons=true&theme=tokyonight)
+<a href="https://github.com/avrilstihler/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=avrilstihler" />
+</a>
+<a href="https://github.com/avrilstihler/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avrilstihler&layout=compact&langs_count=8&card_width=320" />
+</a>
 

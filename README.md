@@ -1,5 +1,5 @@
-# 👋 Olá! Eu sou a Avril Stihler
-🎨 Criativa, curiosa e apaixonada por aprender!
+# Olá! Eu sou a Avril Stihler
+Criativa, curiosa e apaixonada por aprender!
 
 
 📚 Sempre explorando novas formas de expressar ideias, seja através de programação, reflexões ou projetos pessoais.

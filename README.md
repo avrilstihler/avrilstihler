@@ -1,4 +1,4 @@
-# Olá! Eu sou a Avril Stihler
+#   Hi! I'm Avril Stihler
 
 <a href= "https://github.com/avrilstihler/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=avrilstihler&show_icons=true&theme=github_dark_dimmed" />

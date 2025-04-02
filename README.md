@@ -28,7 +28,7 @@
 
 ### 📌 Contato
 
-📧 Email: [avrilstihler10@gmail.com]
+📧 Email: avrilstihler10@gmail.com
 
 🌐 Portfólio: [Em breve]
 

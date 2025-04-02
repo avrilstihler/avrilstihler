@@ -24,7 +24,8 @@
 - Animes, Séries e Jogos como inspiração
 - Aprendizado Contínuo e Exploração de Novas Tecnologias
 
-
+### Certificados
+Clique ![aqui](avrilstihler/Certificados) para acessar todos os meus certificados.
 
 ### 📌 Contato
 

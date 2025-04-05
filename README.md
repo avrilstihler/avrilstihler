@@ -1,14 +1,6 @@
 #   Hi! I'm Avril Stihler
 
 Programming for fun
-### Interests
-
-- Web Development and Interactive Applications  
-- Philosophy, Art, and the Meaning of Life 
-- Anime, Series, and Games as Inspiration  
-
-
-Click [here](./Certificados) to access my certificates.
 
 <a href= "https://github.com/avrilstihler/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=avrilstihler&show_icons=true&theme=github_dark_dimmed" />

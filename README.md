@@ -2,21 +2,6 @@
 
 👩‍💻 Desenvolvedora Júnior - 18 anos
 
-### Formação
-
-- Tecnologia da Informação e Comunicação | Talento Tech PR - UEPG (800 horas)
-- Assistente de TI - Senac (200 horas)
-- Técnico Administrativo - Unicesumar (Integrado ao ensino médio)
-- Inglês - EF English Live
-
-### Habilidades
-
-- Desenvolvimento Web (HTML, CSS, JavaScript, Flutter Web)
-- Programação em Python
-- Inteligência Artificial e Ciência de Dados (Básico)
-- Administração e gestão de TI
-- Inglês Avançado
-
 ### Interesses
 
 - Desenvolvimento Web e Aplicações Interativas
@@ -31,7 +16,7 @@ Clique [aqui](./Certificados) para acessar a pasta de certificados.
 
 ### 📌 Contato
 
-📧 Email: avrilstihler10@gmail.com
+📧 Email: avrilstihlercastro@gmail.com
 
 🌐 Portfólio: [Em breve]
 

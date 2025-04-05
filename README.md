@@ -1,26 +1,16 @@
 #   Hi! I'm Avril Stihler
 
-👩‍💻 Desenvolvedora Júnior - 18 anos
+> Programming for fun
+### Interests
 
-### Interesses
-
-- Desenvolvimento Web e Aplicações Interativas
-- Filosofia, Arte e Sentido da Vida
-- Animes, Séries e Jogos como inspiração
-- Aprendizado Contínuo e Exploração de Novas Tecnologias
-
-### Meus Certificados
-
-Clique [aqui](./Certificados) para acessar a pasta de certificados.
+- Web Development and Interactive Applications  
+- Philosophy, Art, and the Meaning of Life 
+- Anime, Series, and Games as Inspiration  
 
 
-### 📌 Contato
+Click [here](./Certificados) to access my certificates.
 
 📧 Email: avrilstihlercastro@gmail.com
-
-🌐 Portfólio: [Em breve]
-
-💼 LinkedIn: [Em breve]
 
 <a href= "https://github.com/avrilstihler/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=avrilstihler&show_icons=true&theme=github_dark_dimmed" />

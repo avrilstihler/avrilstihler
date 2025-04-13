@@ -1,20 +1,21 @@
 <h1 align="center">Olá, eu sou a Avril! 🌌</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&center=true&vCenter=true&width=600&lines=Exploradora+do+invisível;Apaixonada+por+código+e+sentido;Criando+coisas+que+tocam+a+alma" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F06292&center=true&vCenter=true&width=500&lines=%F0%9F%8F%AD+Cursando+Engenharia+de+Produção" />
 </p>
+
 
 <div align="left">
 
-![Lendo](https://img.shields.io/badge/📖_Lendo-Uma_Vida_Pequena-purple)
-![Assistindo](https://img.shields.io/badge/📖_Assistindo-Summer_Camp_Island-pink)
-![Estudando](https://img.shields.io/badge/🧪_Estudando-JavaScript-blue)
-![Sentindo](https://img.shields.io/badge/💭_Sentindo-Vazio_Criativo-9cf)
+![📖 Lendo](https://img.shields.io/badge/📖_Lendo-Uma_Vida_Pequena-%239c27b0)
+![📺 Assistindo](https://img.shields.io/badge/📺_Assistindo-Summer_Camp_Island-%23e91e63)
+![🧪 Estudando](https://img.shields.io/badge/🧪_Estudando-JavaScript-%23fb8c00)
+![💭 Sentindo](https://img.shields.io/badge/💭_Sentindo-Vazio_Criativo-%234caf50)
 
 </div>
 
 
-<img src="https://img.shields.io/badge/🏭_Cursando-Engenharia_de_Produção-brown" width="400">
+
 
 
 Conheça o [RetainFit](https://avrilstihler.github.io/RetainFit/), meu projeto mais elaborado.
@@ -43,3 +44,4 @@ Conheça o [RetainFit](https://avrilstihler.github.io/RetainFit/), meu projeto m
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avrilstihler/avrilstihler/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/avrilstihler/avrilstihler/output/github-contribution-grid-snake.svg">
 </picture>
+

@@ -13,6 +13,10 @@
 
 </div>
 
+
+<img src="https://img.shields.io/badge/🏭_Cursando-Engenharia_de_Produção-brown" width="400">
+
+
 Conheça o [RetainFit](https://avrilstihler.github.io/RetainFit/), meu projeto mais elaborado.
 
 <br/>

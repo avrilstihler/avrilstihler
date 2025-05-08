@@ -8,17 +8,9 @@
 <div align="left">
 
 ![📖 Lendo](https://img.shields.io/badge/📖_Lendo-Uma_Vida_Pequena-%239c27b0)
-![📺 Assistindo](https://img.shields.io/badge/📺_Assistindo-Summer_Camp_Island-%23e91e63)
-![🧪 Estudando](https://img.shields.io/badge/🧪_Estudando-JavaScript-%23fb8c00)
-![💭 Sentindo](https://img.shields.io/badge/💭_Sentindo-Vazio_Criativo-%234caf50)
+![🎮 Jogando](https://img.shields.io/badge/🎮_Jogando-Persona_4_Golden-%23e91e63)
 
 </div>
-
-
-
-
-
-Conheça o [RetainFit](https://avrilstihler.github.io/RetainFit/), meu projeto mais elaborado.
 
 <br/>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Avril! 🌌</h1>
+<h1 align="center">Olá, eu sou a Avril! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=F06292&center=true&vCenter=true&width=500&lines=%F0%9F%8F%AD+Cursando+Engenharia+de+Produção" />

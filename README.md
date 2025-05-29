@@ -8,11 +8,15 @@
 <div align="left">
 
 ![📖 Lendo](https://img.shields.io/badge/📖_Lendo-Uma_Vida_Pequena-%239c27b0)
-![🎮 Jogando](https://img.shields.io/badge/🎮_Jogando-Persona_4_Golden-%23e91e63)
 
 </div>
 
-<br/>
+
+## 🎮 Meu Perfil na Steam
+
+[![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/id/avrilstihler/)
+
+[![Check my Steam games](https://steambadge.com/profile/76561198317240169.svg)](https://steamcommunity.com/id/avrilstihler/)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

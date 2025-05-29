@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=2196F3&center=true&vCenter=true&width=500&lines=🏛️+Studying+Production+Engineering;💻+Frontend+developer+and+creative+coder;Always+learning"" />
 </p>
 
-About me:
+## About me:
 
 - 🎓 **Production Engineering student**  
 - 📖 Book lover <br>

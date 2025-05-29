@@ -1,22 +1,24 @@
-<h1 align="center">Olá, eu sou a Avril! </h1>
+<h1 align="center">✨ Hi, I'm Avril! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F06292&center=true&vCenter=true&width=500&lines=%F0%9F%8F%AD+Cursando+Engenharia+de+Produção" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2196F3&center=true&vCenter=true&width=500&lines=🏛️+Studying+Production+Engineering;💻+Frontend+developer+and+creative+coder;Always+learning"" />
 </p>
 
+About me:
 
-<div align="left">
+- 🎓 **Production Engineering student**  
+- 📖 Book lover <br>
 
-![📖 Lendo](https://img.shields.io/badge/📖_Lendo-Uma_Vida_Pequena-%239c27b0)
+  ![📖 Lendo](https://img.shields.io/badge/📖_Reading-A_Little_Life-%239c27b0)
+- 💻 Passionate about creating simple, interactive, and creative web projects  
+- 🎮 Currently playing: **Persona 4 Golden**  <br>
 
-</div>
+  [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/id/avrilstihler/)
+- ☕ I love learning new things and solving problems  
+- 🪴 I believe that life becomes meaningful when we notice the beauty hidden in small, ordinary moments — and that's often enough to make it worth living.
 
 
-## 🎮 Meu Perfil na Steam
 
-[![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/id/avrilstihler/)
-
-[![Check my Steam games](https://steambadge.com/profile/76561198317240169.svg)](https://steamcommunity.com/id/avrilstihler/)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

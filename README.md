@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=2196F3&center=true&vCenter=true&width=500&lines=🏛️+Studying+Production+Engineering;💻+Frontend+developer+and+creative+coder;Always+learning"" />
 </p>
 
-## About me:
+## About me
 
 - 🎓 **Production Engineering student**  
 - 📖 Book lover <br>
@@ -15,7 +15,7 @@
 
   [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/id/avrilstihler/)
 
-## Tools and technologies:
+## Tools and technologies
 
 <div align="center">
   <table>

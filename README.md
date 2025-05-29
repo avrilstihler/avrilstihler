@@ -15,7 +15,6 @@ About me:
 
   [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/id/avrilstihler/)
 
-[![My Favorite Song](https://i.postimg.cc/SRS4K4Bm/hedge-icon.jpg)](https://open.spotify.com/track/yourtrackid)
 
 
 <p align="left">

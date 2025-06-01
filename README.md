@@ -11,10 +11,6 @@ About me:
 
   ![📖 Lendo](https://img.shields.io/badge/📖_Reading-A_Little_Life-%239c27b0)
 
-- 🎮 Currently playing: **Persona 4 Golden**  <br>
-
-  [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/id/avrilstihler/)
-
 
 <div align="center">
   <table>

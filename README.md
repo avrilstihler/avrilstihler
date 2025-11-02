@@ -1,23 +1,5 @@
 <h1 align="center">Hi, I'm Avril! 👋</h1>
 
-<table>
-  <tr>
-    <!-- About Me section -->
-    <td valign="top" width="60%">
-
-  <a href="https://www.linkedin.com/in/avrilstihler/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" />
-  </a>
-  <a href="mailto:avrilstihlercastro@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36" alt="Email" />
-  </a>
-  <a href="https://wa.me/5541997253871" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="36" alt="WhatsApp" />
-  </a>
-</table>
-
-
-
 ## Technologies and Tools
 
 <div align="left">
